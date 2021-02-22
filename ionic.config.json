@@ -1,0 +1,7 @@
+{
+  "name": "barevich-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
